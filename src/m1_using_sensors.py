@@ -500,7 +500,7 @@ class ArmAndClaw(object):
 
     def raise_arm(self):
         self.arm_claw_motor.turn_on(50)
-        
+
 
 # -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
